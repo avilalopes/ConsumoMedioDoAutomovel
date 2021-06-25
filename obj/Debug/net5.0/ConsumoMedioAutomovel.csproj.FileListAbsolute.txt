@@ -1,0 +1,16 @@
+D:\git\ConsumoMedioAutomovel\bin\Debug\net5.0\ConsumoMedioAutomovel.exe
+D:\git\ConsumoMedioAutomovel\bin\Debug\net5.0\ConsumoMedioAutomovel.deps.json
+D:\git\ConsumoMedioAutomovel\bin\Debug\net5.0\ConsumoMedioAutomovel.runtimeconfig.json
+D:\git\ConsumoMedioAutomovel\bin\Debug\net5.0\ConsumoMedioAutomovel.runtimeconfig.dev.json
+D:\git\ConsumoMedioAutomovel\bin\Debug\net5.0\ConsumoMedioAutomovel.dll
+D:\git\ConsumoMedioAutomovel\bin\Debug\net5.0\ref\ConsumoMedioAutomovel.dll
+D:\git\ConsumoMedioAutomovel\bin\Debug\net5.0\ConsumoMedioAutomovel.pdb
+D:\git\ConsumoMedioAutomovel\obj\Debug\net5.0\ConsumoMedioAutomovel.csprojAssemblyReference.cache
+D:\git\ConsumoMedioAutomovel\obj\Debug\net5.0\ConsumoMedioAutomovel.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\ConsumoMedioAutomovel\obj\Debug\net5.0\ConsumoMedioAutomovel.AssemblyInfoInputs.cache
+D:\git\ConsumoMedioAutomovel\obj\Debug\net5.0\ConsumoMedioAutomovel.AssemblyInfo.cs
+D:\git\ConsumoMedioAutomovel\obj\Debug\net5.0\ConsumoMedioAutomovel.csproj.CoreCompileInputs.cache
+D:\git\ConsumoMedioAutomovel\obj\Debug\net5.0\ConsumoMedioAutomovel.dll
+D:\git\ConsumoMedioAutomovel\obj\Debug\net5.0\ref\ConsumoMedioAutomovel.dll
+D:\git\ConsumoMedioAutomovel\obj\Debug\net5.0\ConsumoMedioAutomovel.pdb
+D:\git\ConsumoMedioAutomovel\obj\Debug\net5.0\ConsumoMedioAutomovel.genruntimeconfig.cache
